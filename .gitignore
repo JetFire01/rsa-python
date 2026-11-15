@@ -1,0 +1,24 @@
+# Environments
+.env
+.envrc
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JetBrains IDE (PyCharm)
+.idea/
+*.iml
+
+# Tests / tooling
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# macOS
+.DS_Store
